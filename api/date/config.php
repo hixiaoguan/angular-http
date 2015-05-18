@@ -7,11 +7,5 @@ $cfg_dbpwd = '123456';
 $cfg_dbprefix = 'wp_';
 $cfg_db_language = 'utf8';
 
-// $cfg_dbhost = 'qdm11447523.my3w.com';
-// $cfg_dbname = 'qdm11447523_db';
-// $cfg_dbuser = 'qdm11447523';
-// $cfg_dbpwd = '******';
-// $cfg_dbprefix = 'wp_';
-// $cfg_db_language = 'utf8';
 
 ?>
